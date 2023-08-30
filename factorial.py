@@ -1,5 +1,5 @@
 Numero = int(input("Digita un numero: "))
-print(Numero)
+
  
 factorial = 1
 
